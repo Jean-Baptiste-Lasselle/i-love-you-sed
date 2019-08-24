@@ -44,4 +44,4 @@ sed </span><span>'\%/a/b/c/%{do something;}'</span></strong>
 
 # Credits
 
-* https://backreference.org/2010/02/20/using-different-delimiters-in-sed/ (because 1)
+* https://backreference.org/2010/02/20/using-different-delimiters-in-sed/ [Because 1](#because-1)
