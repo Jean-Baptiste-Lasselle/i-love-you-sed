@@ -40,3 +40,8 @@ sed </span><span>'\%/a/b/c/%{do something;}'</span></strong>
 				<span class="permalink">&nbsp;|&nbsp;&nbsp;<a href="https://backreference.org/2010/02/20/using-different-delimiters-in-sed/" rel="bookmark" title="Permanent Link to Using different delimiters in sed">Permalink</a></span>
 						</div>
 	</div>
+
+
+# Credits
+
+* https://backreference.org/2010/02/20/using-different-delimiters-in-sed/ (because 1)
